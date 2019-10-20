@@ -1,4 +1,10 @@
-body {
-	background: #efefef; 
-	font-family: arial;
-} 
+/* This makes the background a different color and makes the font arial for the whole page */ 
+   body {
+	 background: #efefef; 
+	 font-family: arial;
+   } 
+/* This makes the first heading centered to make it look better */ 
+   h1 {
+     text-align: center;
+   }
+
